@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @bablunadapana
+- 👋 Hi, I’m Sri Venkatesh Nadapana
 - 👀 I’m interested in AOSP Roms Testing
 - 🌱 I’m currently learning AOSP Rom Development
 - 💞️ I’m looking to collaborate on Porting Of Roms
 - 📫 How to reach me, ig handle: @bablu_nadapana
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I've not think about it yet....
+- ⚡ Fun fact: Let.s lost in the world of opensource development
 
 <!---
 bablunadapana/bablunadapana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
