@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Porting Of Roms
 - 📫 How to reach me, ig handle: @bablu_nadapana
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Let.s lost in the world of opensource development
+- ⚡ Fun fact: Let.s dive in the world of opensource development
 
 <!---
 bablunadapana/bablunadapana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
